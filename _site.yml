@@ -1,0 +1,15 @@
+name: "BDS 522 Project"
+output_dir: '.'
+navbar:
+  title: "BDS 522 Project"
+  left:
+  - text: "Introduction"
+    href: Introduction.html
+  - text: "Data & Methods"
+    href: Data.html
+  - text: "Analyses"
+    href: Analyses.html
+  - text: "Conclusion"
+    href: Conclusion.html
+
+
